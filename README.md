@@ -2,7 +2,7 @@
 Smart Home system- Custom made for auto-manage Covid-19 vaccination clinic
 
 The purpose of the project:
-Implement a prototype system of a Smart house management system for a Covid19 Vaccination clinic.  
+Implement a prototype system of a Smart House Management System for a Covid19 vaccination clinic on arduino uno micro-controller.  
   
 As part of the war against the spread of the corona virus, the State of Israel embarked on a large-scale vaccination campaign. Vaccine doses are known to have a short shelf life and must remain under controlled temperature conditions.  
   
@@ -43,4 +43,10 @@ As part of the war against the spread of the corona virus, the State of Israel e
 |5|Piezo (Buzzer)             |![buzzer](https://user-images.githubusercontent.com/112472485/188282344-d9d4f4a2-c9ec-43de-bbe3-30f178022d16.PNG)
 |6|PIR Sensor                 |![PIR sensor](https://user-images.githubusercontent.com/112472485/188282441-d99c36a4-1752-4291-8aae-37923b4de5c4.PNG)
 |7|Servo                      |![servo](https://user-images.githubusercontent.com/112472485/188282410-9909d90e-88f7-4aa5-9eeb-9457044a11a6.PNG)
+  
+  
+**Electronic Schematic View:**  
+
+![Electronic Schematic View](https://user-images.githubusercontent.com/112472485/188282613-42b6de08-b4e8-4a85-ab65-3757cf25c36f.PNG)
+
 

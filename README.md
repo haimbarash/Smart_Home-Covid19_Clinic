@@ -6,6 +6,9 @@ Implement a prototype system of a Smart House Management System for a Covid19 va
   
 As part of the war against the spread of the corona virus, the State of Israel embarked on a large-scale vaccination campaign. Vaccine doses are known to have a short shelf life and must remain under controlled temperature conditions.  
   
+**For a full simulation of the system, go to:**  https://www.tinkercad.com/things/cTIGSZKHgQ0-covid19smarthousesystem  
+
+  
 **Customer requirements and guidelines:**  
   
 •	The clinic opens when the switch is lifted (ON) and with a minimum temperature (Hardware 4) and closes when the switch is turned (OFF) (Hardware 1).  

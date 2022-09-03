@@ -2,7 +2,7 @@
 Smart Home system- Custom made for auto-manage Covid-19 vaccination clinic
 
 The purpose of the project:
-Implement a prototype system of a Smart House Management System for a Covid19 vaccination clinic on arduino uno micro-controller.  
+Implement a prototype system of a Smart House Management System for a Covid19 vaccination clinic on Arduino Uno micro-controller.  
   
 As part of the war against the spread of the corona virus, the State of Israel embarked on a large-scale vaccination campaign. Vaccine doses are known to have a short shelf life and must remain under controlled temperature conditions.  
   

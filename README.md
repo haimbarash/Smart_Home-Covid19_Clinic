@@ -32,7 +32,7 @@ As part of the war against the spread of the corona virus, the State of Israel e
   
 •	When the number of batches that have been completely used is greater than the number of batches in stock, a message will appear on the LCD screen that the empty vaccines must be packed in order to be sent for recycling. In order to pack the vaccines, the servo motor (hardware 7) will rotate for 5 seconds, and the nurse will not be available to receive audience at that time.  
   
-list of hardwares
+**List of hardware components:**
   
 |num                | hardware Name            |  hardware picture |
 :-------------------:|:-------------------------:|:-------------------------:

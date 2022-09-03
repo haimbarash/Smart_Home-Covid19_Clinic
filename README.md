@@ -31,4 +31,16 @@ As part of the war against the spread of the corona virus, the State of Israel e
 •	If the alarm was activated due to a fault in the cooling system (temperature sensor) and at the same time there was a break-in, the light will flash in three colors (red - blue - green) until the alarm is neutralized with entering the code "8" to Serial Monitor.  
   
 •	When the number of batches that have been completely used is greater than the number of batches in stock, a message will appear on the LCD screen that the empty vaccines must be packed in order to be sent for recycling. In order to pack the vaccines, the servo motor (hardware 7) will rotate for 5 seconds, and the nurse will not be available to receive audience at that time.  
+  
+list of hardwares
+  
+|num                | hardware Name            |  hardware picture |
+:-------------------:|:-------------------------:|:-------------------------:
+|1|DIP Switch                 |![DIP_Switch](https://user-images.githubusercontent.com/112472485/188282075-55fbbd14-17f4-4329-9c69-325d0ba7272c.PNG)
+|2|LED RGB                    |![LED RGB](https://user-images.githubusercontent.com/112472485/188282206-ea211149-9ec4-4ff1-82d2-c645ff992f92.PNG)
+|3|LCD Screen                 |![LCD Screen](https://user-images.githubusercontent.com/112472485/188282292-8fcbeba1-c8b6-41fb-a1fd-9a538054c258.PNG)
+|4|Temperature sensor         |![Temp sensor](https://user-images.githubusercontent.com/112472485/188282319-d7936742-7428-49ca-b231-0ca221f850fe.PNG)
+|5|Piezo (Buzzer)             |![buzzer](https://user-images.githubusercontent.com/112472485/188282344-d9d4f4a2-c9ec-43de-bbe3-30f178022d16.PNG)
+|6|PIR Sensor                 |![PIR sensor](https://user-images.githubusercontent.com/112472485/188282441-d99c36a4-1752-4291-8aae-37923b4de5c4.PNG)
+|7|Servo                      |![servo](https://user-images.githubusercontent.com/112472485/188282410-9909d90e-88f7-4aa5-9eeb-9457044a11a6.PNG)
 
